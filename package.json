@@ -1,0 +1,23 @@
+{
+  "name": "sandclock",
+  "version": "1.0.0",
+  "description": "A simple website that displays one of those sand filled glass clocks, meant for mobile phones. When you turn your phone, the sand in the glass will react appropriately.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilianDIngco/Sandclock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilianDIngco/Sandclock/issues"
+  },
+  "homepage": "https://github.com/MilianDIngco/Sandclock#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
